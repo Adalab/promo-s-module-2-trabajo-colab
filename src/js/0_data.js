@@ -18,4 +18,12 @@ const anaDataObject = {
   image: 'https://adalab.es/wp-content/uploads/2022/07/ana.jpg',
 };
 
-const data = [dayanaDataObject, yanelisDataObject, anaDataObject];
+const vanesaDataObject = {
+  name: 'Vanesa',
+  description: 'Vanesa lo intenta',
+  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSr8QWZJwaXGOor8AQE2y2D9MZsCAMdXVdDw&usqp=CAU',
+};
+
+
+
+const data = [dayanaDataObject, yanelisDataObject, anaDataObject, vanesaDataObject];
