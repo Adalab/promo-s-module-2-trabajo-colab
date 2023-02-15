@@ -18,4 +18,10 @@ const anaDataObject = {
   image: 'https://adalab.es/wp-content/uploads/2022/07/ana.jpg',
 };
 
-const data = [dayanaDataObject, yanelisDataObject, anaDataObject];
+const data = [dayanaDataObject, yanelisDataObject, anaDataObject, enricaDataObject];
+
+const enricaDataObject = {
+  name: 'Enrica',
+  description: 'Enrica es una adalaber',
+  image: 'https://www.freepik.com/free-vector/cute-girl-with-peace-sign-cartoon-vector-icon-illustration-people-fashion-icon-concept-isolated-premium-vector-flat-cartoon-style_21473070.htm#query=girl%20cartoon&position=0&from_view=keyword&track=ais',
+};
